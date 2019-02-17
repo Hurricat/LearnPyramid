@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<title>${name} view</title>
+    </head>
+    <body>
+	<h1>${name} view</h1>
+    </body>
+</html>
